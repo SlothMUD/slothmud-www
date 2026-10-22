@@ -1,0 +1,4 @@
+baseURL = "https://www.slothmud.net/"
+locale = "en-US"
+title = "SlothMUD"
+theme = ["slothmud-theme/blowfish"]

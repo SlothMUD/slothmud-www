@@ -1,0 +1,3 @@
+[submodule "themes/slothmud-theme"]
+	path = themes/slothmud-theme
+	url = https://github.com/SlothMUD/slothmud-theme.git
