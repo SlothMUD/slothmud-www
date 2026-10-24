@@ -1,3 +1,0 @@
-# Tells Hugo to import Blowfish from your submodule
-[[imports]]
-  path = "slothmud-theme/blowfish"

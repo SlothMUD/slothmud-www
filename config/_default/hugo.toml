@@ -1,4 +1,6 @@
-baseURL = "https://www.slothmud.net/"
-locale = "en-US"
-title = "SlothMUD"
-theme = ["slothmud-theme/blowfish"]
+baseURL = "https://www.slothmud.net/"    # Update per site (e.g. https://forum.slothmud.net/)
+title = "SlothMUD"                       # Site title
+languageCode = "en-us"
+
+# Declare the layered theme hierarchy (slothmud-theme overrides blowfish)
+theme = ["slothmud-theme", "blowfish"]
